@@ -1,7 +1,8 @@
 repo_name: donaldww/linux-sgx
 report_id: 630031db52d743ef803560e5493fdc3b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:43:19+00:00'
+timestamp: '2024-01-04T15:02:47+00:00'
 requested_by: lzha101
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -43,6 +47,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: Hack
   description: A programming language for HHVM that interoperates seamlessly with
@@ -53,6 +58,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -63,6 +69,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: OCaml
   description: A general purpose industrial-strength programming language
@@ -72,6 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2854/ocaml.jpg
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: Perl
   description: Highly capable, feature-rich programming language with over 26 years
@@ -82,6 +90,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -92,6 +101,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: CMake
   description: 'An open-source system that manages the build process '
@@ -101,6 +111,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: Codecov
   description: Hosted coverage reports with awesome features to enhance your CI workflow
@@ -110,6 +121,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/donaldww/linux-sgx/blob/master/external/CppMicroServices/codecov.yml
   detection_source: external/CppMicroServices/codecov.yml
   last_updated_by: Li, Xun
   last_updated_on: 2019-04-02 02:45:23.000000000 Z
@@ -121,6 +133,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -130,6 +143,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/donaldww/linux-sgx/blob/master/external/CppMicroServices/doc/requirements.txt
   detection_source: external/CppMicroServices/doc/requirements.txt
   last_updated_by: Li, Xun
   last_updated_on: 2019-04-02 02:45:23.000000000 Z
@@ -142,6 +156,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/donaldww/linux-sgx/blob/master/external/CppMicroServices/.travis.yml
   detection_source: external/CppMicroServices/.travis.yml
   last_updated_by: Li, Xun
   last_updated_on: 2019-04-02 02:45:23.000000000 Z
@@ -154,6 +169,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/donaldww/linux-sgx
   detection_source: Repo Metadata
 - name: Sphinx
   description: Open source full text search server, designed from the ground up with
@@ -164,6 +180,7 @@ tools:
   category: Application Utilities
   sub_category: Search Engines
   image_url: https://img.stackshare.io/service/1598/TtqoAo1V.png
+  detection_source_url: https://github.com/donaldww/linux-sgx/blob/master/external/CppMicroServices/doc/requirements.txt
   detection_source: external/CppMicroServices/doc/requirements.txt
   last_updated_by: Li, Xun
   last_updated_on: 2019-04-02 02:45:23.000000000 Z
